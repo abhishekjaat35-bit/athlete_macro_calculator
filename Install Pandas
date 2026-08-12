@@ -1,0 +1,6 @@
+Open your terminal inside the project folder :
+
+pip install pandas
+
+Then run:
+python athlete_macro_calculator.py
