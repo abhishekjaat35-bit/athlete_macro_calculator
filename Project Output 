@@ -1,0 +1,77 @@
+======================================================================
+                 ATHLETE MACRO CALCULATOR
+======================================================================
+
+ATHLETE INFORMATION
+======================================================================
+Athlete  Age     Sex  Height_cm  Weight_kg Activity_Level
+Rahul     22    Male        178         78           High
+Arjun     21    Male        180         80      Very High
+Vikram    24    Male        175         72       Moderate
+Priya     23  Female        165         60           High
+
+======================================================================
+ATHLETE NUTRITION TARGETS
+======================================================================
+Athlete   BMR   TDEE  Calories  Protein_g  Carbs_g  Fat_g
+Rahul    1763   3041      3041      140.4    375.0   62.4
+Arjun    1795   3411      3411      144.0    465.0   64.0
+Vikram   1664   2579      2579      129.6    361.3   57.6
+Priya    1345   2321      2321      108.0    307.3   48.0
+
+======================================================================
+INDIVIDUAL ATHLETE REPORTS
+======================================================================
+
+----------------------------------------------------------------------
+Athlete      : Rahul
+BMR          : 1763 kcal/day
+Estimated TDEE : 3041 kcal/day
+Calorie Target : 3041 kcal/day
+
+Macro Targets:
+Protein      : 140.4 g/day
+Carbohydrate : 375.0 g/day
+Fat          : 62.4 g/day
+
+----------------------------------------------------------------------
+Athlete      : Arjun
+BMR          : 1795 kcal/day
+Estimated TDEE : 3411 kcal/day
+Calorie Target : 3411 kcal/day
+
+Macro Targets:
+Protein      : 144.0 g/day
+Carbohydrate : 465.0 g/day
+Fat          : 64.0 g/day
+
+----------------------------------------------------------------------
+Athlete      : Vikram
+BMR          : 1664 kcal/day
+Estimated TDEE : 2579 kcal/day
+Calorie Target : 2579 kcal/day
+
+Macro Targets:
+Protein      : 129.6 g/day
+Carbohydrate : 361.3 g/day
+Fat          : 57.6 g/day
+
+----------------------------------------------------------------------
+Athlete      : Priya
+BMR          : 1345 kcal/day
+Estimated TDEE : 2321 kcal/day
+Calorie Target : 2321 kcal/day
+
+Macro Targets:
+Protein      : 108.0 g/day
+Carbohydrate : 307.3 g/day
+Fat          : 48.0 g/day
+
+======================================================================
+RESULTS SAVED
+======================================================================
+File created: athlete_macro_results.csv
+
+======================================================================
+MACRO CALCULATION COMPLETE
+======================================================================
